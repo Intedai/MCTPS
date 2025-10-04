@@ -1,0 +1,4 @@
+venv
+comment.txt
+*.mp4
+__pycache__

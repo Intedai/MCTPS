@@ -1,0 +1,10 @@
+# TPV Config file
+
+[Ollama]
+model = "mistral"
+injected_text = ""
+
+[Output]
+video_time = 24
+directory = "youtube"
+comment_start = "Thank you for watching download at:\n"
