@@ -2,3 +2,4 @@ venv
 comment.txt
 *.mp4
 __pycache__
+temp.png
